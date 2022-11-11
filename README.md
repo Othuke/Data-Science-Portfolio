@@ -52,7 +52,7 @@ You can access the full notebook [here](https://github.com/Othuke/Load-Shortfall
 
 [3. LANGUAGE IDENTIFICATION](https://github.com/Othuke/Language-Identification-Hackathon/blob/main/Kaggle%20Hackathon.ipynb)
 
-![Language Identification](images/langs.png)
+![Language Identification](images/language_sa.png)
 
 This project is an NLP Classification task. The datasets were gotten from Kaggle. It is based on the country South Africa which is a multicultural society that is characterised by its rich linguistic diversity. Language is an indispensable tool that can be used to deepen democracy and also contribute to the social, cultural, intellectual, economic and political life of the South African society.
 
