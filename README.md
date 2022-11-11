@@ -53,7 +53,7 @@ You can access the full notebook [here](https://github.com/Othuke/Load-Shortfall
 
 [3. CLIMATE CHANGE](https://github.com/Othuke/Climate-Change-Case-Study)
 
-![Climate Change](images/climate_change.jpg)
+![Climate Change](images/climate_change.png)
 
 This project is an NLP Classification task. The dataset is gotten from kaggle.
 Many companies are built around lessening one’s environmental impact or carbon footprint. They offer products and services that are environmentally friendly and sustainable, in line with their values and ideals. They would like to determine how people perceive climate change and whether or not they believe it is a real threat. This would add to their market research efforts in gauging how their product/service may be received.
