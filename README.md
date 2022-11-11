@@ -9,4 +9,4 @@ Feel free to contact me on [my LinkedIn page](https://linkedin.com/in/othuke-aja
 This repository contains a list of projects that I have worked on or currently working on. All datasets are gotten from Kaggle and other publicly available websites.
 
 [1. Customer Churn](https://github.com/Othuke/Customer-Churn-Case-Study)
-![Customer Churn](../images/customer_churn.png "Customer Churn")
+![Customer Churn](../images/customer_churn.png)
