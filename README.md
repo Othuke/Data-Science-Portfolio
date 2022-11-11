@@ -75,14 +75,7 @@ Some major highlights include:
 The entire notebook can be accessed [here](https://github.com/Othuke/Climate-Change-Case-Study/blob/main/Climate%20change%20classification.ipynb)
 
 
-
-
-
-
-
-
-
-[3. LANGUAGE IDENTIFICATION](https://github.com/Othuke/Language-Identification-Hackathon/)
+[4. LANGUAGE IDENTIFICATION](https://github.com/Othuke/Language-Identification-Hackathon/)
 
 ![Language Identification](images/sa_lang.jpg)
 
