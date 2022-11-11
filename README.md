@@ -8,7 +8,7 @@ Feel free to contact me on [my LinkedIn page](https://linkedin.com/in/othuke-aja
 ## Projects
 This repository contains a list of projects that I have worked on or currently working on. All datasets are gotten from Kaggle and other publicly available websites.
 
-[## 1. CUSTOMER CHURN](https://github.com/Othuke/Customer-Churn-Case-Study)
+##  [CUSTOMER CHURN](https://github.com/Othuke/Customer-Churn-Case-Study)
 
 ![Customer Churn](images/customer_churn.png)
 
@@ -28,7 +28,7 @@ The full notebook can be accessed [here](https://github.com/Othuke/Customer-Chur
 The model was also tracked using comet_ml. Click [here](https://www.comet.com/othuke/customer-churn/view/new/experiments) to access the experiments
 
 
-[## 2. LOAD SHORTFALL](https://github.com/Othuke/Load-Shortfall-Regression-Case-Study)
+## [2. LOAD SHORTFALL](https://github.com/Othuke/Load-Shortfall-Regression-Case-Study)
 
 ![Load Shortfall](images/load_shortfall.jpg)
 
@@ -51,7 +51,7 @@ Some major insights I found include:
 You can access the full notebook [here](https://github.com/Othuke/Load-Shortfall-Regression-Case-Study/blob/main/Load%20Shortfall%20Regression.ipynb)
 
 
-[## 3. CLIMATE CHANGE](https://github.com/Othuke/Climate-Change-Case-Study)
+## [3. CLIMATE CHANGE](https://github.com/Othuke/Climate-Change-Case-Study)
 
 ![Climate Change](images/climate_change.png)
 
@@ -75,7 +75,7 @@ Some major highlights include:
 The entire notebook can be accessed [here](https://github.com/Othuke/Climate-Change-Case-Study/blob/main/Climate%20change%20classification.ipynb)
 
 
-[## 4. LANGUAGE IDENTIFICATION](https://github.com/Othuke/Language-Identification-Hackathon/)
+## [4. LANGUAGE IDENTIFICATION](https://github.com/Othuke/Language-Identification-Hackathon/)
 
 ![Language Identification](images/sa_lang.jpg)
 
