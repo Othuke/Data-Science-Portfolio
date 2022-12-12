@@ -56,7 +56,7 @@ Some major highlights include:
 The entire notebook can be accessed [here](https://github.com/Othuke/Climate-Change-Case-Study/blob/main/Climate%20change%20classification.ipynb)
 
 ## [3. HYPOTHESIS TESTING](https://github.com/Othuke/Hypothesis-Testing)
-![Hypothesis Testing](images/hypothesis testing.jpg)
+![Hypothesis Testing](images/hypothesis_testing.jpg)
 
 This project aims to test the effectiveness of the new landing page in gathering new subscribers. A team conducted an experiment by randomly selecting 100 users and dividing them equally into two groups. The existing landing page was served to the first group (control group) and the new landing page to the second group (treatment group). Data regarding the interaction of users in both groups with the two versions of the landing page was collected. In this project, I explored the data and perform a statistical analysis (at a significance level of 5%) to determine the effectiveness of the new landing page in gathering new subscribers for the news portal by answering the following questions:
 
