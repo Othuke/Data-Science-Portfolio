@@ -8,27 +8,8 @@ Feel free to contact me on [my LinkedIn page](https://linkedin.com/in/othuke-aja
 ## Projects
 This repository contains a list of projects that I have worked on or currently working on. All datasets are gotten from Kaggle and other publicly available websites.
 
-##  [CUSTOMER CHURN](https://github.com/Othuke/Customer-Churn-Case-Study)
 
-![Customer Churn](images/customer_churn.png)
-
-This project is a classification task and the metric used for evaluation is f1 score.
-The goal of this project was to build a model that would predict behavior to retain customers, analyze all relevant customer data and develop focused customer retention programs.
-
-The major insights gotten from this project include:
-* The target variable had an imbalanced ratio of about 74% to 26%. For the purpose of this project, this was balanced using the SMOTE technique (which has proven not to be the best especially in industry related problems).
-* Customers who churned spend much less time with company than customers who did not churn. They are also charged a bit higher.
-* The rate of churn amongst the senior citizens are relatively higher although they constitute only a small part of the dataset.
-* Customers with patners and dependents have lower churn rates than those without partners and dependents.
-* Customers whose contracts are on an annual or a two-year basis seem to have significantly lower churn rate than their counterpart
-* Customers who use the electronic method of payment have a much higher churn rate than others
-
-The full notebook can be accessed [here](https://github.com/Othuke/Customer-Churn-Case-Study/blob/main/Customer%20churn.ipynb)
-
-The model was also tracked using comet_ml. Click [here](https://www.comet.com/othuke/customer-churn/view/new/experiments) to access the experiments
-
-
-## [2. LOAD SHORTFALL](https://github.com/Othuke/Load-Shortfall-Regression-Case-Study)
+## [1. LOAD SHORTFALL](https://github.com/Othuke/Load-Shortfall-Regression-Case-Study)
 
 ![Load Shortfall](images/load_shortfall.jpg)
 
@@ -51,7 +32,7 @@ Some major insights I found include:
 You can access the full notebook [here](https://github.com/Othuke/Load-Shortfall-Regression-Case-Study/blob/main/Load%20Shortfall%20Regression.ipynb)
 
 
-## [3. CLIMATE CHANGE](https://github.com/Othuke/Climate-Change-Case-Study)
+## [2. CLIMATE CHANGE](https://github.com/Othuke/Climate-Change-Case-Study)
 
 ![Climate Change](images/climate_change.png)
 
@@ -74,8 +55,42 @@ Some major highlights include:
 
 The entire notebook can be accessed [here](https://github.com/Othuke/Climate-Change-Case-Study/blob/main/Climate%20change%20classification.ipynb)
 
+## [3. HYPOTHESIS TESTING](https://github.com/Othuke/Hypothesis-Testing)
+![Hypothesis Testing](images/hypothesis testing.jpg)
 
-## [4. LANGUAGE IDENTIFICATION](https://github.com/Othuke/Language-Identification-Hackathon/)
+This project aims to test the effectiveness of the new landing page in gathering new subscribers. A team conducted an experiment by randomly selecting 100 users and dividing them equally into two groups. The existing landing page was served to the first group (control group) and the new landing page to the second group (treatment group). Data regarding the interaction of users in both groups with the two versions of the landing page was collected. In this project, I explored the data and perform a statistical analysis (at a significance level of 5%) to determine the effectiveness of the new landing page in gathering new subscribers for the news portal by answering the following questions:
+
+* Do the users spend more time on the new landing page than on the existing landing page?
+
+* Is the conversion rate (the proportion of users who visit the landing page and get converted) for the new page greater than the conversion rate for the old page?
+
+* Does the converted status depend on the preferred language?
+
+* Is the time spent on the new page the same for the different language users?
+
+The notebook can be accessed [here](https://github.com/Othuke/Hypothesis-Testing/blob/main/Hypothesis%20testing.ipynb)
+
+##  [4. CUSTOMER CHURN](https://github.com/Othuke/Customer-Churn-Case-Study)
+![Customer Churn](images/customer_churn.png)
+
+This project is a classification task and the metric used for evaluation is f1 score.
+The goal of this project was to build a model that would predict behavior to retain customers, analyze all relevant customer data and develop focused customer retention programs.
+
+The major insights gotten from this project include:
+* The target variable had an imbalanced ratio of about 74% to 26%. For the purpose of this project, this was balanced using the SMOTE technique (which has proven not to be the best especially in industry related problems).
+* Customers who churned spend much less time with company than customers who did not churn. They are also charged a bit higher.
+* The rate of churn amongst the senior citizens are relatively higher although they constitute only a small part of the dataset.
+* Customers with patners and dependents have lower churn rates than those without partners and dependents.
+* Customers whose contracts are on an annual or a two-year basis seem to have significantly lower churn rate than their counterpart
+* Customers who use the electronic method of payment have a much higher churn rate than others
+
+The full notebook can be accessed [here](https://github.com/Othuke/Customer-Churn-Case-Study/blob/main/Customer%20churn.ipynb)
+
+The model was also tracked using comet_ml. Click [here](https://www.comet.com/othuke/customer-churn/view/new/experiments) to access the experiments
+
+
+
+## [5. LANGUAGE IDENTIFICATION](https://github.com/Othuke/Language-Identification-Hackathon/)
 
 ![Language Identification](images/sa_lang.jpg)
 
