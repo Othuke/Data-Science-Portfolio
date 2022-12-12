@@ -1,7 +1,7 @@
 # My Data Science Portfolio - Othuke Ajaye
 
 ## About Me
-I am a Data Enthusiast who is naturally curious and analytical, keen to turn data into insights. I am a graduate of Electrical/Electronics Engineering and one who is always ready to learn and take on new challenges, a problem solver. You can find my academic journey and work experience on [My Resume](https://drive.google.com/file/d/1pN62RDLvZR877vR1sv8bhBmPLmDAqXLB/view?usp=share_link)
+I am a Data Enthusiast who is naturally curious and analytical, keen to turn data into insights. I am a graduate of Electrical/Electronics Engineering and one who is always ready to learn and take on new challenges, a problem solver. You can find my academic journey and work experience on [My Resume](https://drive.google.com/file/d/1_bcbTlyt8uUKhOlpaSZdrtLnX9O_pFDF/view?usp=share_link)
 
 Feel free to contact me on [my LinkedIn page](https://linkedin.com/in/othuke-ajaye) for a chat if you are looking to hire a data scientist or analyst.
 
