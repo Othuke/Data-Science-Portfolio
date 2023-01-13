@@ -32,7 +32,24 @@ Some major insights I found include:
 You can access the full notebook [here](https://github.com/Othuke/Load-Shortfall-Regression-Case-Study/blob/main/Load%20Shortfall%20Regression.ipynb)
 
 
-## [2. CLIMATE CHANGE](https://github.com/Othuke/Climate-Change-Case-Study)
+## [2. HOTEL BOOKING](https://github.com/Othuke/Hotel-Booking)
+
+![HOTEL](images/hotel.jpg)
+
+The objective of this project is to use a Machine Learning based solution to build a predictive model that can predict which booking is going to be canceled in advance, and help in formulating profitable policies for cancellations and refunds.
+The new technologies involving online booking channels have dramatically changed customers’ booking possibilities and behavior. This adds a further dimension to the challenge of how hotels handle cancellations, which are no longer limited to traditional booking and guest characteristics.
+
+The cancellation of bookings impact a hotel on various fronts:
+
+* Loss of resources (revenue) when the hotel cannot resell the room.
+* Additional costs of distribution channels by increasing commissions or paying for publicity to help sell these rooms.
+* Lowering prices last minute, so the hotel can resell a room, resulting in reducing the profit margin.
+* Human resources to make arrangements for the guests.
+
+The entire notebook can be accessed [here](https://github.com/Othuke/Hotel-Booking/blob/main/Royals%20Hotels%20Project.ipynb)
+
+
+## [3. CLIMATE CHANGE](https://github.com/Othuke/Climate-Change-Case-Study)
 
 ![Climate Change](images/climate_change.png)
 
@@ -55,7 +72,7 @@ Some major highlights include:
 
 The entire notebook can be accessed [here](https://github.com/Othuke/Climate-Change-Case-Study/blob/main/Climate%20change%20classification.ipynb)
 
-## [3. HYPOTHESIS TESTING](https://github.com/Othuke/Hypothesis-Testing)
+## [4. HYPOTHESIS TESTING](https://github.com/Othuke/Hypothesis-Testing)
 ![Hypothesis Testing](images/hypothesis_testing.jpg)
 
 This project aims to test the effectiveness of the new landing page in gathering new subscribers. A team conducted an experiment by randomly selecting 100 users and dividing them equally into two groups. The existing landing page was served to the first group (control group) and the new landing page to the second group (treatment group). Data regarding the interaction of users in both groups with the two versions of the landing page was collected. In this project, I explored the data and perform a statistical analysis (at a significance level of 5%) to determine the effectiveness of the new landing page in gathering new subscribers for the news portal by answering the following questions:
@@ -70,7 +87,7 @@ This project aims to test the effectiveness of the new landing page in gathering
 
 The notebook can be accessed [here](https://github.com/Othuke/Hypothesis-Testing/blob/main/Hypothesis%20testing.ipynb)
 
-##  [4. CUSTOMER CHURN](https://github.com/Othuke/Customer-Churn-Case-Study)
+##  [5. CUSTOMER CHURN](https://github.com/Othuke/Customer-Churn-Case-Study)
 ![Customer Churn](images/customer_churn.png)
 
 This project is a classification task and the metric used for evaluation is f1 score.
@@ -90,7 +107,7 @@ The model was also tracked using comet_ml. Click [here](https://www.comet.com/ot
 
 
 
-## [5. LANGUAGE IDENTIFICATION](https://github.com/Othuke/Language-Identification-Hackathon/)
+## [6. LANGUAGE IDENTIFICATION](https://github.com/Othuke/Language-Identification-Hackathon/)
 
 ![Language Identification](images/sa_lang.jpg)
 
