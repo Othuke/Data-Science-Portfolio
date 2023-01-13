@@ -34,7 +34,7 @@ You can access the full notebook [here](https://github.com/Othuke/Load-Shortfall
 
 ## [2. HOTEL BOOKING](https://github.com/Othuke/Hotel-Booking)
 
-![HOTEL](images/hotel2.jpg)
+![HOTEL](images/hotel.jpg)
 
 The objective of this project is to use a Machine Learning based solution to build a predictive model that can predict which booking is going to be canceled in advance, and help in formulating profitable policies for cancellations and refunds.
 The new technologies involving online booking channels have dramatically changed customers’ booking possibilities and behavior. This adds a further dimension to the challenge of how hotels handle cancellations, which are no longer limited to traditional booking and guest characteristics.
@@ -46,7 +46,7 @@ The cancellation of bookings impact a hotel on various fronts:
 * Lowering prices last minute, so the hotel can resell a room, resulting in reducing the profit margin.
 * Human resources to make arrangements for the guests.
 
-The entire notebook can be accessed [here](https://github.com/Othuke/Climate-Change-Case-Study/blob/main/Climate%20change%20classification.ipynb)
+The entire notebook can be accessed [here](https://github.com/Othuke/Hotel-Booking/blob/main/Royals%20Hotels%20Project.ipynb)
 
 
 ## [3. CLIMATE CHANGE](https://github.com/Othuke/Climate-Change-Case-Study)
